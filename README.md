@@ -1,5 +1,7 @@
 ## CofTheDev
-Sou um "programador" (coloque aspas nisso), que não sabe de nada, mas sabe umas coisas ae :3 
+Sou um "programador" (coloque aspas nisso), que não sabe de nada, mas sabe umas coisas ae :3
+- Programo bots no Discord
+- Estou aprendendo HTML e CSS
 
 <div align="center"><br>
   <a href="https://github.com/cofthedev">
